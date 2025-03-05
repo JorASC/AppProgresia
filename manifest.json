@@ -1,7 +1,7 @@
 {
   "name": "AppProgresia",
   "short_name": "AppProgresia",
-  "description": "Aplicacion de la maestra Blanca bby <3",
+  "description": "Aplicacion para la clase de Blanca Chavarria",
   "start_url": "./index.html?utm_source=web_app_manifest",
   "scope": "./",
   "lang": "es-MX",
